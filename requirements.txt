@@ -3,11 +3,11 @@ speechrecognition
 pyttsx3
 pypdf
 reportlab
-langchain
-langchain-chains
-langchain-community
-langchain-text-splitters
+langchain==0.1.16
+langchain-community==0.0.32
+langchain-text-splitters==0.0.1
 sentence-transformers
 transformers
 torch
 faiss-cpu
+rich>=10.14.0
