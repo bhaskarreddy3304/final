@@ -7,7 +7,7 @@ langchain==0.1.16
 langchain==0.1.16
 langchain-community==0.0.32
 langchain-text-splitters==0.0.1
-langchain-chains-retrieval_qa.base
+langchain-chains
 langchain-community==0.0.32
 langchain-text-splitters==0.0.1
 sentence-transformers
